@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+</keymap>
