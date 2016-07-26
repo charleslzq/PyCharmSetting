@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://115.28.30.15:9000/" />
+          <option name="name" value="qy" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="guest" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

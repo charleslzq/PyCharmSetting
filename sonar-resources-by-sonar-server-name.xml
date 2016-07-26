@@ -1,0 +1,674 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="qy">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1469443339000" />
+                <option name="date" value="1469443338000" />
+                <option name="description" value="" />
+                <option name="id" value="24204" />
+                <option name="key" value="MS-JobClient" />
+                <option name="longName" value="MS-JobClient" />
+                <option name="name" value="MS-JobClient" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469443423000" />
+                <option name="date" value="1469443422000" />
+                <option name="description" value="" />
+                <option name="id" value="24213" />
+                <option name="key" value="MS-JobTracker" />
+                <option name="longName" value="MS-JobTracker" />
+                <option name="name" value="MS-JobTracker" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469443496000" />
+                <option name="date" value="1469443495000" />
+                <option name="description" value="" />
+                <option name="id" value="24218" />
+                <option name="key" value="MS-TaskTracker" />
+                <option name="longName" value="MS-TaskTracker" />
+                <option name="name" value="MS-TaskTracker" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459418679000" />
+                <option name="date" value="1468816741000" />
+                <option name="description" value="" />
+                <option name="id" value="18430" />
+                <option name="key" value="Msite" />
+                <option name="longName" value="M站" />
+                <option name="name" value="M站" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459412993000" />
+                <option name="date" value="1468816123000" />
+                <option name="description" value="" />
+                <option name="id" value="17828" />
+                <option name="key" value="Sync-doctor" />
+                <option name="longName" value="Sync-doctor" />
+                <option name="name" value="Sync-doctor" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459412873000" />
+                <option name="date" value="1468816158000" />
+                <option name="description" value="" />
+                <option name="id" value="17751" />
+                <option name="key" value="Sync-hospital" />
+                <option name="longName" value="Sync-hospital" />
+                <option name="name" value="Sync-hospital" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1466764251000" />
+                <option name="date" value="1466764250000" />
+                <option name="description" value="" />
+                <option name="id" value="23885" />
+                <option name="key" value="demo-sonarut" />
+                <option name="longName" value="demo-sonarut" />
+                <option name="name" value="demo-sonarut" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1465185834000" />
+                <option name="date" value="1468816778000" />
+                <option name="description" value="" />
+                <option name="id" value="23133" />
+                <option name="key" value="MS-Scheduler" />
+                <option name="longName" value="付-任务调度" />
+                <option name="name" value="付-任务调度" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1465185659000" />
+                <option name="date" value="1468816799000" />
+                <option name="description" value="" />
+                <option name="id" value="23071" />
+                <option name="key" value="MS-Coupon" />
+                <option name="longName" value="付-优惠券微服" />
+                <option name="name" value="付-优惠券微服" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459428349000" />
+                <option name="date" value="1468815824000" />
+                <option name="description" value="" />
+                <option name="id" value="20045" />
+                <option name="key" value="QuyiCouponSettlement" />
+                <option name="longName" value="付-优惠券清结算" />
+                <option name="name" value="付-优惠券清结算" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459428263000" />
+                <option name="date" value="1468816174000" />
+                <option name="description" value="" />
+                <option name="id" value="19871" />
+                <option name="key" value="QuyiCouponAdmConsole" />
+                <option name="longName" value="付-优惠券综控台" />
+                <option name="name" value="付-优惠券综控台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459427542000" />
+                <option name="date" value="1468816226000" />
+                <option name="description" value="" />
+                <option name="id" value="18941" />
+                <option name="key" value="QuyiMerConsole" />
+                <option name="longName" value="付-商控台" />
+                <option name="name" value="付-商控台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459425800000" />
+                <option name="date" value="1468816264000" />
+                <option name="description" value="" />
+                <option name="id" value="18793" />
+                <option name="key" value="ms-reconBatch" />
+                <option name="longName" value="付-对账批处理" />
+                <option name="name" value="付-对账批处理" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459426065000" />
+                <option name="date" value="1468815544000" />
+                <option name="description" value="" />
+                <option name="id" value="18852" />
+                <option name="key" value="ms-yinqiBatch" />
+                <option name="longName" value="付-平安银企批处理" />
+                <option name="name" value="付-平安银企批处理" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459426147000" />
+                <option name="date" value="1468815234000" />
+                <option name="description" value="" />
+                <option name="id" value="18885" />
+                <option name="key" value="ms-yinqiPay" />
+                <option name="longName" value="付-平安银企支付网关" />
+                <option name="name" value="付-平安银企支付网关" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459428188000" />
+                <option name="date" value="1468815293000" />
+                <option name="description" value="" />
+                <option name="id" value="19729" />
+                <option name="key" value="ms-yinqiAdmConsole" />
+                <option name="longName" value="付-平安银企综控台" />
+                <option name="name" value="付-平安银企综控台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459428520000" />
+                <option name="date" value="1468815341000" />
+                <option name="description" value="" />
+                <option name="id" value="20133" />
+                <option name="key" value="YinqiBatch" />
+                <option name="longName" value="付-建行银企批处理" />
+                <option name="name" value="付-建行银企批处理" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459428182000" />
+                <option name="date" value="1468815396000" />
+                <option name="description" value="" />
+                <option name="id" value="19702" />
+                <option name="key" value="YinqiPay" />
+                <option name="longName" value="付-建行银企支付网关" />
+                <option name="name" value="付-建行银企支付网关" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459427671000" />
+                <option name="date" value="1468815713000" />
+                <option name="description" value="" />
+                <option name="id" value="19202" />
+                <option name="key" value="YinqiAdmConsole" />
+                <option name="longName" value="付-建行银企综控台" />
+                <option name="name" value="付-建行银企综控台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1465186109000" />
+                <option name="date" value="1468816834000" />
+                <option name="description" value="" />
+                <option name="id" value="23272" />
+                <option name="key" value="MS-QuyiPay" />
+                <option name="longName" value="付-新支付网关" />
+                <option name="name" value="付-新支付网关" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1465186026000" />
+                <option name="date" value="1468816990000" />
+                <option name="description" value="" />
+                <option name="id" value="23177" />
+                <option name="key" value="MS-Settlement" />
+                <option name="longName" value="付-新清结算批处理" />
+                <option name="name" value="付-新清结算批处理" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1465185524000" />
+                <option name="date" value="1468816949000" />
+                <option name="description" value="" />
+                <option name="id" value="23045" />
+                <option name="key" value="MS-MQ" />
+                <option name="longName" value="付-消息队列" />
+                <option name="name" value="付-消息队列" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459427965000" />
+                <option name="date" value="1468815378000" />
+                <option name="description" value="" />
+                <option name="id" value="19383" />
+                <option name="key" value="QuyiAdmConsole" />
+                <option name="longName" value="付-趣医综控台" />
+                <option name="name" value="付-趣医综控台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459480079000" />
+                <option name="date" value="1468816317000" />
+                <option name="description" value="" />
+                <option name="id" value="20241" />
+                <option name="key" value="qydoctorAPP" />
+                <option name="longName" value="分-医生端APP" />
+                <option name="name" value="分-医生端APP" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463741811000" />
+                <option name="date" value="1468816932000" />
+                <option name="description" value="" />
+                <option name="id" value="21945" />
+                <option name="key" value="MS-CloudHospital" />
+                <option name="longName" value="分-微-网络医院" />
+                <option name="name" value="分-微-网络医院" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463660100000" />
+                <option name="date" value="1468816305000" />
+                <option name="description" value="" />
+                <option name="id" value="21917" />
+                <option name="key" value="PatientDataSourceWeb" />
+                <option name="longName" value="分-数据中心前端" />
+                <option name="name" value="分-数据中心前端" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463659964000" />
+                <option name="date" value="1468816989000" />
+                <option name="description" value="" />
+                <option name="id" value="21719" />
+                <option name="key" value="PatientDataSource" />
+                <option name="longName" value="分-数据中心后端" />
+                <option name="name" value="分-数据中心后端" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463743437000" />
+                <option name="date" value="1468819089000" />
+                <option name="description" value="" />
+                <option name="id" value="22007" />
+                <option name="key" value="APP-Doctor" />
+                <option name="longName" value="分-网络医院医生端" />
+                <option name="name" value="分-网络医院医生端" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463660279000" />
+                <option name="date" value="1468815441000" />
+                <option name="description" value="" />
+                <option name="id" value="21929" />
+                <option name="key" value="Web-Consultation" />
+                <option name="longName" value="分-远程会诊" />
+                <option name="name" value="分-远程会诊" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459414124000" />
+                <option name="date" value="1468816037000" />
+                <option name="description" value="" />
+                <option name="id" value="17899" />
+                <option name="key" value="quyiyuan_all" />
+                <option name="longName" value="官网" />
+                <option name="name" value="官网" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459504648000" />
+                <option name="date" value="1468815901000" />
+                <option name="description" value="" />
+                <option name="id" value="20673" />
+                <option name="key" value="yuntongxun_plugin_v5_apk" />
+                <option name="longName" value="容联V5APK" />
+                <option name="name" value="容联V5APK" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459403880000" />
+                <option name="date" value="1468816861000" />
+                <option name="description" value="" />
+                <option name="id" value="17268" />
+                <option name="key" value="isis-config" />
+                <option name="longName" value="开发平台控制台" />
+                <option name="name" value="开发平台控制台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463744342000" />
+                <option name="date" value="1468816340000" />
+                <option name="description" value="" />
+                <option name="id" value="22363" />
+                <option name="key" value="MS-Adapter" />
+                <option name="longName" value="微-Adapter" />
+                <option name="name" value="微-Adapter" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459480570000" />
+                <option name="date" value="1468819689000" />
+                <option name="description" value="" />
+                <option name="id" value="20330" />
+                <option name="key" value="MS-HMS" />
+                <option name="longName" value="微-HMS" />
+                <option name="name" value="微-HMS" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463744648000" />
+                <option name="date" value="1468815668000" />
+                <option name="description" value="" />
+                <option name="id" value="22628" />
+                <option name="key" value="MS-Information" />
+                <option name="longName" value="微-Information" />
+                <option name="name" value="微-Information" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459395733000" />
+                <option name="date" value="1468816390000" />
+                <option name="description" value="" />
+                <option name="id" value="16666" />
+                <option name="key" value="ms-config" />
+                <option name="longName" value="微-config" />
+                <option name="name" value="微-config" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459412364000" />
+                <option name="date" value="1468984289000" />
+                <option name="description" value="" />
+                <option name="id" value="17682" />
+                <option name="key" value="ms-doctor" />
+                <option name="longName" value="微-doctor" />
+                <option name="name" value="微-doctor" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459396513000" />
+                <option name="date" value="1468815947000" />
+                <option name="description" value="" />
+                <option name="id" value="16909" />
+                <option name="key" value="ms-gateway" />
+                <option name="longName" value="微-gateway" />
+                <option name="name" value="微-gateway" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459412527000" />
+                <option name="date" value="1468815229000" />
+                <option name="description" value="" />
+                <option name="id" value="17713" />
+                <option name="key" value="ms-hospital" />
+                <option name="longName" value="微-hospital" />
+                <option name="name" value="微-hospital" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459396210000" />
+                <option name="date" value="1468816435000" />
+                <option name="description" value="" />
+                <option name="id" value="16780" />
+                <option name="key" value="ms-oauth2" />
+                <option name="longName" value="微-oauth2" />
+                <option name="name" value="微-oauth2" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459396394000" />
+                <option name="date" value="1468815745000" />
+                <option name="description" value="" />
+                <option name="id" value="16805" />
+                <option name="key" value="ms-search" />
+                <option name="longName" value="微-search" />
+                <option name="name" value="微-search" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459396064000" />
+                <option name="date" value="1468815279000" />
+                <option name="description" value="" />
+                <option name="id" value="16706" />
+                <option name="key" value="ms-user" />
+                <option name="longName" value="微-user" />
+                <option name="name" value="微-user" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463744735000" />
+                <option name="date" value="1468815592000" />
+                <option name="description" value="" />
+                <option name="id" value="22657" />
+                <option name="key" value="MS-Log" />
+                <option name="longName" value="微-日志" />
+                <option name="name" value="微-日志" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463744528000" />
+                <option name="date" value="1468816471000" />
+                <option name="description" value="" />
+                <option name="id" value="22599" />
+                <option name="key" value="MS-Disease" />
+                <option name="longName" value="微-疾病" />
+                <option name="name" value="微-疾病" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463744438000" />
+                <option name="date" value="1468815578000" />
+                <option name="description" value="" />
+                <option name="id" value="22433" />
+                <option name="key" value="MS-Appoint" />
+                <option name="longName" value="微-预约挂号" />
+                <option name="name" value="微-预约挂号" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459504136000" />
+                <option name="date" value="1468815682000" />
+                <option name="description" value="" />
+                <option name="id" value="20524" />
+                <option name="key" value="BackEnd-HMS" />
+                <option name="longName" value="组-HMS" />
+                <option name="name" value="组-HMS" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459494795000" />
+                <option name="date" value="1468816492000" />
+                <option name="description" value="" />
+                <option name="id" value="20463" />
+                <option name="key" value="IMPlus" />
+                <option name="longName" value="组-IM" />
+                <option name="name" value="组-IM" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463744218000" />
+                <option name="date" value="1468815498000" />
+                <option name="description" value="" />
+                <option name="id" value="22302" />
+                <option name="key" value="BackEnd-Information" />
+                <option name="longName" value="组-Information" />
+                <option name="name" value="组-Information" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459412174000" />
+                <option name="date" value="1468816519000" />
+                <option name="description" value="" />
+                <option name="id" value="17567" />
+                <option name="key" value="backend-doctor" />
+                <option name="longName" value="组-doctor" />
+                <option name="name" value="组-doctor" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459397153000" />
+                <option name="date" value="1468816004000" />
+                <option name="description" value="" />
+                <option name="id" value="17012" />
+                <option name="key" value="isis-guide" />
+                <option name="longName" value="组-guide" />
+                <option name="name" value="组-guide" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459411924000" />
+                <option name="date" value="1468815794000" />
+                <option name="description" value="" />
+                <option name="id" value="17378" />
+                <option name="key" value="BackEnd-Hospital" />
+                <option name="longName" value="组-hospital" />
+                <option name="name" value="组-hospital" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459396806000" />
+                <option name="date" value="1468816576000" />
+                <option name="description" value="" />
+                <option name="id" value="16950" />
+                <option name="key" value="backend-user" />
+                <option name="longName" value="组-user" />
+                <option name="name" value="组-user" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463743991000" />
+                <option name="date" value="1468815941000" />
+                <option name="description" value="" />
+                <option name="id" value="22181" />
+                <option name="key" value="BackEnd-Disease" />
+                <option name="longName" value="组-疾病" />
+                <option name="name" value="组-疾病" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463743884000" />
+                <option name="date" value="1468816603000" />
+                <option name="description" value="" />
+                <option name="id" value="22054" />
+                <option name="key" value="BackEnd-Appoint" />
+                <option name="longName" value="组-预约挂号" />
+                <option name="name" value="组-预约挂号" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463745810000" />
+                <option name="date" value="1466316221000" />
+                <option name="description" value="" />
+                <option name="id" value="22767" />
+                <option name="key" value="Opsplatform" />
+                <option name="longName" value="运维平台" />
+                <option name="name" value="运维平台" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
