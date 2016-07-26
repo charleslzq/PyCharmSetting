@@ -20,6 +20,12 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>SonarQube</id>
+          </State>
+          <State>
+            <id>SonarQube (new issues)</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
