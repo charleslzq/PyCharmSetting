@@ -21,6 +21,9 @@
             <id />
           </State>
           <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
             <id>SonarQube</id>
           </State>
           <State>
