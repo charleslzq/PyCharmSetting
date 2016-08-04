@@ -5,6 +5,9 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="Git.Revert">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Gsonformat" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
