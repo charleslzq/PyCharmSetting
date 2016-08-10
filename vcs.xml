@@ -82,6 +82,10 @@
           <option name="url" value="http://liuzhengqi@h.quyiyuan.com/scm/aut/pact-testreport.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Oreste-Luci/netflix-oss-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\IdeaProjects" />
