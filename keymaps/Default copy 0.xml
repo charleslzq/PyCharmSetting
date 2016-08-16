@@ -1,0 +1,23 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Git.Revert">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
